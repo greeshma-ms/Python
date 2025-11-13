@@ -1,16 +1,17 @@
-**Business-Case-Yulu-Hypothesis-Testing**
+**Business-Case-Yulu-Hypothesis-Testing** <br>
+
 Welcome to the Yulu Hypothesis Testing project! 🇮🇳
 
-Yulu is India's leading micro-mobility service provider, committed to eliminating traffic congestion by offering unique shared electric cycles for daily commutes.
-**About Yulu �**�
+Yulu is India's leading micro-mobility service provider, committed to eliminating traffic congestion by offering unique shared electric cycles for daily commutes.<br>
+**About Yulu �**�<br>
 Yulu operates in key locations, including metro stations, bus stands, office spaces, residential areas, and corporate offices, to make commuting smooth, affordable, and sustainable. 🏙️🏢
+<br>
+Recently, Yulu has faced challenges with its revenues, and they've partnered with a consulting company to understand the factors influencing the demand for shared electric cycles in the Indian market. This project aims to uncover these insights. 📉📈 <br>
+**How You Can Help 🤝** <br>
+Yulu is eager to find out:<br>
 
-Recently, Yulu has faced challenges with its revenues, and they've partnered with a consulting company to understand the factors influencing the demand for shared electric cycles in the Indian market. This project aims to uncover these insights. 📉📈
-**How You Can Help 🤝**
-Yulu is eager to find out:
-
-Which variables significantly predict the demand for shared electric cycles in the Indian market?
-How well these variables describe the electric cycle demand?
+Which variables significantly predict the demand for shared electric cycles in the Indian market?<br>
+How well these variables describe the electric cycle demand?<br>
 **Dataset 📊**
 Column Profiling:
 datetime: Date and time
