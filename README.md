@@ -1,4 +1,4 @@
-#**Business-Case-Yulu-Hypothesis-Testing**(H1) <br>
+# **Business-Case-Yulu-Hypothesis-Testing** <br>
 
 Welcome to the Yulu Hypothesis Testing project! 🇮🇳
 
