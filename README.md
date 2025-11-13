@@ -32,7 +32,7 @@ Yulu is eager to find out:<br>
 - ANOVA
 - Chi-square <br>
 ## **How to Begin �**�
- 1.Import the dataset and perform exploratory data analysis to understand its structure and characteristics.<br>
+  1.Import the dataset and perform exploratory data analysis to understand its structure and characteristics.<br>
  2.Establish relationships between the dependent variable, "Count," and independent variables like Workingday, Weather, Season, etc.<br>
  3.Select an appropriate test to determine:<br>
   -If Working Day affects the number of electric cycles rented.<br>
