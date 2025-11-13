@@ -32,20 +32,20 @@ Yulu is eager to find out:<br>
 - ANOVA
 - Chi-square <br>
 ## **How to Begin �**�
-  1.Import the dataset and perform exploratory data analysis to understand its structure and characteristics.<br>
- 2.Establish relationships between the dependent variable, "Count," and independent variables like Workingday, Weather, Season, etc.<br>
- 3.Select an appropriate test to determine:<br>
-  -If Working Day affects the number of electric cycles rented.<br>
-  -Whether the number of cycles rented differs in different seasons.<br>
-  -Whether the number of cycles rented differs under different weather conditions.<br>
-  -If weather is dependent on the season.<br>
-4.Set up Null Hypothesis (H0).<br>
-5.State the alternate hypothesis (H1).<br>
-6.Check assumptions of the test (Normality, Equal Variance). Use tools like histograms, Q-Q plots, or statistical methods like Levene’s test and Shapiro-Wilk test (optional).<br>
-7.Continue with the analysis even if some assumptions fail. Double-check using visual analysis and report wherever necessary.<br>
-8.Set a significance level (alpha).<br>
-9.Calculate test statistics.<br>
-10.Make a decision to accept or reject the null hypothesis.<br>
+1. Import the dataset and perform exploratory data analysis to understand its structure and characteristics.<br>
+ 2. Establish relationships between the dependent variable, "Count," and independent variables like Workingday, Weather, Season, etc.<br>
+ 3. Select an appropriate test to determine:<br>
+   - If Working Day affects the number of electric cycles rented.<br>
+   - Whether the number of cycles rented differs in different seasons.<br>
+   - Whether the number of cycles rented differs under different weather conditions.<br>
+   - If weather is dependent on the season.<br>
+4. Set up Null Hypothesis (H0).<br>
+5. State the alternate hypothesis (H1).<br>
+6. Check assumptions of the test (Normality, Equal Variance). Use tools like histograms, Q-Q plots, or statistical methods like Levene’s test and Shapiro-Wilk test (optional).<br>
+7. Continue with the analysis even if some assumptions fail. Double-check using visual analysis and report wherever necessary.<br>
+8. Set a significance level (alpha).<br>
+9. Calculate test statistics.<br>
+10. Make a decision to accept or reject the null hypothesis.<br>
 
 Draw meaningful inferences from the analysis.<br>
 Let's work together to help Yulu make data-driven decisions and improve their micro-mobility services! 🚴‍♀️🔍💡<br>
